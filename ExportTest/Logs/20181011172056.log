@@ -1,0 +1,12 @@
+2018-10-11 17:21:48,910 - Import_and_Export - DEBUG - 找到2个元素：导入
+2018-10-11 17:22:09,599 - Import_and_Export - INFO - 客户管理-->导入客户:导入成功:
+2018-10-11 17:22:23,914 - Import_and_Export - INFO - 客户管理-->导入联系人:导入成功:
+2018-10-11 17:22:52,604 - Import_and_Export - DEBUG - 元素未找到：导入
+2018-10-11 17:23:18,355 - Import_and_Export - INFO - 客户区域设置-->导入区域:导入成功:
+2018-10-11 17:23:39,727 - Import_and_Export - DEBUG - 找到2个元素：导入
+2018-10-11 17:23:51,587 - Import_and_Export - INFO - 经销商-->导入经销商:导入成功:
+2018-10-11 17:24:13,853 - Import_and_Export - INFO - 经销商-->导入联系人:导入成功:
+2018-10-11 17:24:45,786 - Import_and_Export - DEBUG - 元素未找到：导入
+2018-10-11 17:25:23,642 - Import_and_Export - INFO - 经销商区域设置-->导入区域:导入成功:
+2018-10-11 17:26:14,843 - Import_and_Export - INFO - 上报单明细-->导入订单:导入成功:
+2018-10-11 17:27:17,390 - Import_and_Export - INFO - 上报单明细-->导入订单:导入成功:
