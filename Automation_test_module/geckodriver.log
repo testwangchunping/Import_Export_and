@@ -1,0 +1,18 @@
+1536906655818	geckodriver	INFO	geckodriver 0.21.0
+1536906655869	geckodriver	INFO	Listening on 127.0.0.1:64580
+1536906658951	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile.Tvkc1fhYNJAH"
+1536906669275	Marionette	INFO	Listening on port 64588
+1536906670518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536906670558	Marionette	DEBUG	[6442450945] Frame script loaded
+1536906670588	Marionette	DEBUG	[6442450945] Frame script registered
+1536906672479	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1536906672780	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1536906673488	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://wqtest.xbwq.com.cn/wq/admin/core/login/index
+1536906673876	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://wqtest.xbwq.com.cn/wq/admin/core/login/index
+1536906674475	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 2240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7328, C1536907540428	Marionette	INFO	Stopped listening on port 64588
+[GPU 982
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
