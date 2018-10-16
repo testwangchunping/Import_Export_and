@@ -1,12 +1,12 @@
 import time
 from ExportTest.frame.logger import Logger
 class Os_Rows_Process(object):
-    def __init__(self,module_list,driver):
+    def __init__(self,module_list,driver,logger):
         self.module_list=module_list
         self.driver=driver
+        self.logger=logger
     #偶数行数据处理
     #偶数行后切换iframe
-    logger=Logger(logger='Import_and_Export').getlog()
     def os_rows_process(self):
         get_module_name=''
         try:
