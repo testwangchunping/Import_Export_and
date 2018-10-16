@@ -1,0 +1,8 @@
+2018-10-16 16:11:56,166 - Export - DEBUG - 元素未找到：async_export
+2018-10-16 16:12:01,235 - Export - DEBUG - 元素未找到：btn_order_export
+2018-10-16 16:12:06,479 - Export - DEBUG - 元素未找到：form-radio
+2018-10-16 16:12:06,515 - Export - DEBUG - 找到22个元素：x-tree-item-checkbox
+2018-10-16 16:12:14,039 - Export - INFO - 定位轨迹-->导出轨迹:轨迹导出成功
+2018-10-16 16:12:29,186 - Export - DEBUG - 元素未找到：explain
+2018-10-16 16:12:29,293 - Export - INFO - 员工管理-->导出:点击下载员工导出文件
+2018-10-16 16:12:35,475 - Export - DEBUG - 元素未找到：Export_photo

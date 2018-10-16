@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ae2d057-ba0b-4ee4-9399-9c11b1b1b013" name="默认的" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930163643.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930163649.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930164327.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930164759.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930165117.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930165125.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930165524.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/Logs/20180930165532.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/configure/config.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/configure/read_config_file.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/new_export.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/new_import.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/old_export.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/old_import.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/上报单明细.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/包装单位设置.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/员工管理.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/商品管理1.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/商品管理2.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/商品类型设置.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/商品规格设置.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/客户区域设置.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/客户管理1.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/客户管理2.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/巡店计划管理.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/指令.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/经销商1.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/经销商2.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data/经销商区域设置.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data_process/js_rows_process.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data_process/juge_old_export.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data_process/os_rows_process.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data_process/read_new_export.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data_process/read_new_import.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data_process/read_old_export.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/data_process/read_old_import.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/frame/browser_engine.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/frame/get_time.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/frame/is_element_exist.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/frame/logger.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/frame/web_element_wait.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/page/login_page.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/service/export.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/service/importe.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/service/login.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/testcase/testcase.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2/相关说明.txt" afterPath="" />
+    <list default="true" id="8ae2d057-ba0b-4ee4-9399-9c11b1b1b013" name="默认的" comment="提交所有代码">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ExportTest2.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xbwq.iws" />
@@ -69,120 +24,7 @@
     <favorites_list name="xbwq" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="read_old_export.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_old_export.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read_old_import.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_old_import.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="export.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/service/export.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#14#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="importe.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/service/importe.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#15#70#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/service/login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="browser_engine.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/frame/browser_engine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_time.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/frame/get_time.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="is_element_exist.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/frame/is_element_exist.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExportTest/frame/logger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web_element_wait.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExportTest/frame/web_element_wait.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -192,20 +34,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wangchunping" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Automation_test_module/data_driven/run.py" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_txt_file/user_info.txt" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_txt_file/user_info.py" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_csv_file/info.csv" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_csv_file2/info2.csv" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_csv_file2/is_element_exist.py" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_csv_file2/test111.py" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_csv_file/csv_read.py" />
-        <option value="$PROJECT_DIR$/Automation_test_module/read_csv_file2/testcase.py" />
         <option value="$PROJECT_DIR$/ExportTest/data/csv_read.py" />
         <option value="$PROJECT_DIR$/ExportTest/testcase/__init__.py" />
         <option value="$PROJECT_DIR$/ExportTest/frame/open_url.py" />
@@ -220,23 +58,18 @@
         <option value="$PROJECT_DIR$/ExportTest/data/even_rows_process.py" />
         <option value="$PROJECT_DIR$/ExportTest/data/read_old_export.py" />
         <option value="$PROJECT_DIR$/ExportTest/data/choose_import_file.py" />
-        <option value="$PROJECT_DIR$/Automation_test_module/change_table/is_element_exist.py" />
         <option value="$PROJECT_DIR$/ExportTest/data/read_old_import.py" />
         <option value="$PROJECT_DIR$/ExportTest/data/read_new_export.py" />
         <option value="$PROJECT_DIR$/Automation_test_module/change_table/test_change_table.py" />
         <option value="$PROJECT_DIR$/ExportTest/data/read_new_import.py" />
         <option value="$PROJECT_DIR$/Automation_test_module/uploade_file.py" />
         <option value="$PROJECT_DIR$/Automation_test_module/uploade_file/uploade_file.py" />
-        <option value="$PROJECT_DIR$/ExportTest/frame/logger.py" />
         <option value="$PROJECT_DIR$/ExportTest/frame/is_element_exist.py" />
         <option value="$PROJECT_DIR$/ExportTest/frame/importe.py" />
-        <option value="$PROJECT_DIR$/ExportTest/configure/read_config_file.py" />
         <option value="$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py" />
         <option value="$PROJECT_DIR$/ExportTest/Logs/20180930164335.log" />
         <option value="$PROJECT_DIR$/ExportTest/configure/config.ini" />
         <option value="$PROJECT_DIR$/ExportTest/service/export.py" />
-        <option value="$PROJECT_DIR$/ExportTest/data_process/read_new_import.py" />
-        <option value="$PROJECT_DIR$/ExportTest/data_process/os_rows_process.py" />
         <option value="$PROJECT_DIR$/ExportTest/data_process/juge_old_export.py" />
         <option value="$PROJECT_DIR$/ExportTest/service/web_element_wait.py" />
         <option value="$PROJECT_DIR$/ExportTest/frame/web_element_wait.py" />
@@ -246,8 +79,22 @@
         <option value="$PROJECT_DIR$/Automation_test_module/__init__.py" />
         <option value="$PROJECT_DIR$/ExportTest/service/login.py" />
         <option value="$PROJECT_DIR$/ExportTest/service/importe.py" />
+        <option value="$PROJECT_DIR$/Automation_test_module/change_table/is_element_exist.py" />
+        <option value="$PROJECT_DIR$/Automation_test_module/read_excel/read_excel_file.py" />
         <option value="$PROJECT_DIR$/ExportTest/testsuits/testcase.py" />
+        <option value="$PROJECT_DIR$/ExportTest/testsuits/test_11import.py" />
+        <option value="$PROJECT_DIR$/ExportTest/testsuits/test_login.py" />
+        <option value="$PROJECT_DIR$/ExportTest/configure/read_config_file.py" />
+        <option value="$PROJECT_DIR$/ExportTest/frame/logger.py" />
+        <option value="$PROJECT_DIR$/ExportTest/TestRunner.py" />
+        <option value="$PROJECT_DIR$/ExportTest/testsuits/test_export.py" />
+        <option value="$PROJECT_DIR$/ExportTest/testsuits/test_import.py" />
         <option value="$PROJECT_DIR$/ExportTest/unittest/TestRunner.py" />
+        <option value="$PROJECT_DIR$/ExportTest/data_process/read_new_export.py" />
+        <option value="$PROJECT_DIR$/ExportTest/data_process/os_rows_process.py" />
+        <option value="$PROJECT_DIR$/ExportTest/data_process/read_new_import.py" />
+        <option value="$PROJECT_DIR$/ExportTest/data_process/read_old_export.py" />
+        <option value="$PROJECT_DIR$/ExportTest/data_process/read_old_import.py" />
       </list>
     </option>
   </component>
@@ -307,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,118 +187,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExportTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unittest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExportTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testsuits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExportTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test_report" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xbwq5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExportTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="配置错误&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\selenium test\demo\xbwq5\ExportTest\frame" />
-      <recent name="H:\selenium test\demo\xbwq5\ExportTest\service" />
-      <recent name="H:\selenium test\demo\xbwq5\ExportTest\data_process" />
-      <recent name="H:\selenium test\demo\xbwq5\Automation_test_module\uploade_file" />
-      <recent name="H:\selenium自动化测试\脚本\xbwq5\Automation_test_module\data_driven" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\selenium_test\demo\xbwq5\Automation_test_module\read_excel\data" />
+      <recent name="H:\selenium_test\demo\xbwq5\ExportTest\data_process" />
       <recent name="H:\selenium test\demo\xbwq5\Automation_test_module\uploade_file" />
       <recent name="H:\selenium test\demo\xbwq5\ExportTest\data" />
       <recent name="H:\seleniumceshi\demo\xbwq5\ExportTest\data" />
-      <recent name="H:\seleniumceshi\demo\xbwq5\Automation_test_module\change_table" />
-      <recent name="H:\selenium自动化测试\脚本\xbwq5\Automation_test_module\read_csv_file2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\selenium_test\demo\xbwq5\ExportTest\unittest" />
+      <recent name="H:\selenium_test\demo\xbwq5\ExportTest" />
+      <recent name="H:\selenium_test\demo\xbwq5\Automation_test_module\uploade_file" />
+      <recent name="H:\selenium_test\demo\xbwq5\ExportTest\data" />
+      <recent name="H:\selenium test\demo\xbwq5\ExportTest\frame" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TestRunner">
-    <configuration default="false" name="Unittests in Import_and_Export" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TestRunner (2)">
+    <configuration default="false" name="Unittests in Test_Import" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:\selenium_test\demo\xbwq5\ExportTest\testsuits" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExportTest/testsuits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="xbwq" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExportTest/testcase/testcase.py" />
-      <option name="CLASS_NAME" value="Import_and_Export" />
+      <option name="SCRIPT_NAME" value="H:\selenium_test\demo\xbwq5\ExportTest\testsuits\test_import.py" />
+      <option name="CLASS_NAME" value="Test_Import" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
@@ -461,68 +237,63 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in testcase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:\selenium_test\demo\xbwq5\ExportTest\testsuits" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="xbwq" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExportTest/testcase/testcase.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in Import_and_Export" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="H:\selenium_test\demo\xbwq5\ExportTest\testsuits" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="xbwq" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExportTest/testcase/testcase.py" />
-      <option name="CLASS_NAME" value="Import_and_Export" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test_screenshot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="TestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Automation_test_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExportTest/unittest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="xbwq" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Automation_test_module/test_screenshot.py" />
+      <option name="SCRIPT_NAME" value="H:\selenium_test\demo\xbwq5\ExportTest\unittest\TestRunner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="TestRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittest Test_Import.test_old_import" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExportTest/testsuits" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xbwq" />
+      <option name="SCRIPT_NAME" value="H:\selenium_test\demo\xbwq5\ExportTest\testsuits\test_import.py" />
+      <option name="CLASS_NAME" value="Test_Import" />
+      <option name="METHOD_NAME" value="test_old_import" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestRunner (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExportTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xbwq" />
+      <option name="SCRIPT_NAME" value="H:\selenium_test\demo\xbwq5\ExportTest\unittest\TestRunner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestRunner (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -685,19 +456,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python tests.111" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Import_and_Export" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in testcase" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Import_and_Export" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_screenshot" />
-      <item index="5" class="java.lang.String" itemvalue="Python.TestRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in Test_Import" />
+      <item index="2" class="java.lang.String" itemvalue="Python.TestRunner" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest Test_Import.test_old_import" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TestRunner (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Python.TestRunner (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.TestRunner" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_screenshot" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in Import_and_Export" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in Import_and_Export" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in testcase" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TestRunner (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TestRunner (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TestRunner" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest Test_Import.test_old_import" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Test_Import" />
       </list>
     </recent_temporary>
   </component>
@@ -712,54 +483,126 @@
       <option name="number" value="Default" />
       <updated>1535508707102</updated>
     </task>
+    <task id="LOCAL-00001" summary="提交read_old_import">
+      <created>1539663139815</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539663139815</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交read_old_export">
+      <created>1539663591359</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539663591359</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交所有代码">
+      <created>1539664049548</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539664049548</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交所有代码">
+      <created>1539664069658</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539664069658</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交所有代码">
+      <created>1539664081011</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539664081011</updated>
+    </task>
+    <task id="LOCAL-00006" summary="提交所有代码">
+      <created>1539664177032</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539664177032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交所有代码">
+      <created>1539667732427</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539667732427</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交所有代码">
+      <created>1539668206986</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539668206986</updated>
+    </task>
+    <task id="LOCAL-00009" summary="提交所有代码">
+      <created>1539672243651</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539672243651</updated>
+    </task>
+    <task id="LOCAL-00010" summary="提交所有代码">
+      <created>1539677923125</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539677923125</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_Import_and_Export_test_old_export - 2018.09.30 at 16h 35m 54s.xml">
-      <configuration name="Unittest Import_and_Export.test_old_export" configurationId="tests" />
+    <history-entry file="Unittest_Test_Export_test_new_export - 2018.10.16 at 11h 41m 06s.xml">
+      <configuration name="Unittest Test_Export.test_new_export" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Import_and_Export_test_old_export - 2018.09.30 at 16h 36m 29s.xml">
-      <configuration name="Unittest Import_and_Export.test_old_export" configurationId="tests" />
+    <history-entry file="Unittest_Test_Import_test_old_import - 2018.10.16 at 13h 24m 08s.xml">
+      <configuration name="Unittest Test_Import.test_old_import" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Import_and_Export - 2018.09.30 at 16h 56m 44s.xml">
-      <configuration name="Unittests in Import_and_Export" configurationId="tests" />
+    <history-entry file="Unittest_Test_Import_test_old_import - 2018.10.16 at 13h 43m 29s.xml">
+      <configuration name="Unittest Test_Import.test_old_import" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Import_and_Export_(1) - 2018.09.30 at 16h 47m 10s.xml">
-      <configuration name="Unittests in Import_and_Export (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_Export - 2018.10.16 at 11h 43m 18s.xml">
+      <configuration name="Unittests in Test_Export" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Import_and_Export_(2) - 2018.09.30 at 16h 44m 56s.xml">
-      <configuration name="Unittests in Import_and_Export (2)" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_Export - 2018.10.16 at 11h 50m 14s.xml">
+      <configuration name="Unittests in Test_Export" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Import_and_Export_(4) - 2018.09.30 at 16h 20m 35s.xml">
-      <configuration name="Unittests in Import_and_Export (4)" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_Export - 2018.10.16 at 12h 06m 18s.xml">
+      <configuration name="Unittests in Test_Export" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Import_and_Export_(4) - 2018.09.30 at 16h 52m 37s.xml">
-      <configuration name="Unittests in Import_and_Export (4)" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_Export_(1) - 2018.10.16 at 12h 02m 06s.xml">
+      <configuration name="Unittests in Test_Export (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcase - 2018.09.30 at 16h 45m 52s.xml">
-      <configuration name="Unittests in testcase" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_Import - 2018.10.16 at 11h 55m 50s.xml">
+      <configuration name="Unittests in Test_Import" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcase - 2018.09.30 at 16h 47m 42s.xml">
-      <configuration name="Unittests in testcase" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_Import - 2018.10.16 at 11h 58m 36s.xml">
+      <configuration name="Unittests in Test_Import" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcase - 2018.09.30 at 16h 48m 50s.xml">
-      <configuration name="Unittests in testcase" configurationId="tests" />
+    <history-entry file="Unittests_in_Test_Import - 2018.10.16 at 12h 15m 35s.xml">
+      <configuration name="Unittests in Test_Import" configurationId="tests" />
     </history-entry>
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21292776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18060836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.49746513" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44145358" sideWeight="0.4949303" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.067294754" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15665796" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35397038" sideWeight="0.50253487" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15612382" sideWeight="0.49746513" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6438172" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.49746513" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20323014" sideWeight="0.49746513" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6231494" sideWeight="0.49746513" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -770,7 +613,6 @@
       <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38267717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19650067" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -807,6 +649,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="提交read_old_import" />
+    <MESSAGE value="提交read_old_export" />
+    <MESSAGE value="提交所有代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交所有代码" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -829,61 +681,6 @@
           <url>file://$PROJECT_DIR$/Automation_test_module/read_csv_file2/csv_read.py</url>
           <line>6</line>
           <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/service/export.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/service/export.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/service/export.py</url>
-          <line>56</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/service/export.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="176" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="177" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/Automation_test_module/change_table/test_change_table.py</url>
@@ -936,69 +733,13 @@
           <option name="timeStamp" value="191" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="206" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="207" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="208" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="209" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="210" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="211" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="212" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="213" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="214" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="215" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="230" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/Automation_test_module/change_table/test_change_table.py</url>
           <line>27</line>
           <option name="timeStamp" value="232" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="306" />
+          <url>file://$PROJECT_DIR$/ExportTest/page/login_page.py</url>
+          <option name="timeStamp" value="309" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1008,18 +749,25 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="307" />
+      <option name="time" value="311" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ExportTest/service/importe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+          <folding>
+            <element signature="e#15#70#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Automation_test_module/test_screenshot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1111,13 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automation_test_module/change_table/is_element_exist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23076923">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Automation_test_module/change_table/test_change_table.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1126,24 +867,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Automation_test_module/uploade_file/old_import.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://G:/Python/Lib/site-packages/selenium/webdriver/remote/switch_to.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Automation_test_module/uploade_file/uploade_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231">
-          <caret line="45" column="58" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -1165,19 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36923078">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/testsuits/testcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.4175825">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1185,113 +899,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5299401">
           <caret line="262" column="28" selection-start-line="262" selection-start-column="28" selection-end-line="262" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_test_module/change_table/is_element_exist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18487395">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/test_report/2018-10-16Report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9361702">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20528771">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/unittest/TestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/os_rows_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="42" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_new_export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py">
+    <entry file="file://$PROJECT_DIR$/Automation_test_module/uploade_file/old_import.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_old_export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_old_import.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/service/export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#14#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/service/importe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/service/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/frame/browser_engine.py">
+    <entry file="file://$PROJECT_DIR$/Automation_test_module/uploade_file/old_export.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_test_module/uploade_file/new_import.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_test_module/uploade_file/new_export.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_test_module/uploade_file/uploade_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.91851854">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_test_module/read_excel/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/frame/is_element_exist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,29 +981,157 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExportTest/frame/is_element_exist.py">
+    <entry file="file://$PROJECT_DIR$/ExportTest/frame/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26666668">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/configure/read_config_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47900465">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/configure/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39349595">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/unittest/TestRunner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/testsuits/test_import.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/testsuits/test_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/service/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/service/importe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="115" column="33" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/service/export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_old_import.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54706925">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExportTest/frame/logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.039076377">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExportTest/frame/web_element_wait.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27353463">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/page/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_old_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42984015">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_new_import.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4689165">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/read_new_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.11722913">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/js_rows_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.875666">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/juge_old_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExportTest/data_process/os_rows_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2113677">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
