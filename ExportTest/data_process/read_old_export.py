@@ -1,10 +1,11 @@
 #coding=utf-8
-import os
+import xlrd
+
 from ExportTest.configure.read_config_file import ReadConfigFile
 from ExportTest.data_process.js_rows_process import Js_Rows_Process
 from ExportTest.data_process.juge_old_export import Juge_Old_Export
 from ExportTest.data_process.os_rows_process import Os_Rows_Process
-import xlrd
+
 
 class Read_Old_Export(object):
     def __init__(self,driver,logger):
@@ -12,7 +13,7 @@ class Read_Old_Export(object):
         self.logger=logger
     readConfig=ReadConfigFile()
     def test_old_export(self):
-        file_path='H:\\selenium_test\\demo\\xbwq5\\ExportTest\\data\\read_file.xlsx'
+        file_path = 'H:\\selenium_test\\demo\\xbwq5\\ExportTest\\data\\read_file2.xlsx'
         sheet_name='old_export'
         #打开excel
         workbook=xlrd.open_workbook(file_path)

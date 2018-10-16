@@ -1,7 +1,10 @@
 # _*_ coding: utf-8 _*_
 import logging
 import os.path
+
 from ExportTest.frame.get_time import GetTime
+
+
 class Logger(object):
 
     def __init__(self, logger):
@@ -42,3 +45,7 @@ class Logger(object):
 
     def getlog(self):
         return self.logger
+
+    # 程序结束后终止logging进程
+    def realse(self):
+        return logging.shutdown()
