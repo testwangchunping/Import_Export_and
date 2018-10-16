@@ -1,12 +1,10 @@
 #coding=utf-8
-import csv
 import os
-
+import xlrd
 from ExportTest.configure.read_config_file import ReadConfigFile
 from ExportTest.data_process.js_rows_process import Js_Rows_Process
 from ExportTest.data_process.os_rows_process import Os_Rows_Process
 from ExportTest.service.export import Export
-
 
 class Read_New_Export(object):
     def __init__(self,driver,logger):
@@ -14,22 +12,24 @@ class Read_New_Export(object):
         self.logger=logger
     readConfig=ReadConfigFile()
     def test_new_export(self):
-        csvfile=os.path.dirname(os.getcwd())+'\\data\\'
-        modules=csv.reader(open(csvfile+'new_export.csv','r'))
-        #获取文件总行数
-        count=len(open(csvfile+'new_export.csv', 'r').readlines())
+        file_path='H:\\selenium_test\\demo\\xbwq5\\ExportTest\\data_process\\file.xlsx'
+        sheet_name='new_export'
+        #打开excel
+        workbook=xlrd.open_workbook(file_path)
+        DataSheet=workbook.sheet_by_name(sheet_name)
+        rowNum=DataSheet.nrows #sheet行数
         i=0
         last_module_name=''
-        for module in modules:
-
-            #获取csv文件中的每一行数据，并去掉空元素，组成list
+        count=rowNum
+        for i in range(rowNum):
+            module=DataSheet.row_values(i)
             while '' in module:
                 module.remove('')
             module_list=module
-            #偶数行（通过link_text获取的模块链接）数据处理
+            # 偶数行（通过link_text获取的模块链接）数据处理
             if(i%2==0):
                 #偶数行数据处理
-                last_module_name=Os_Rows_Process(module_list,self.driver).os_rows_process_new()
+                last_module_name=Os_Rows_Process(module_list,self.driver,self.logger).os_rows_process_new()
             elif i%2==1 and module_list:
                 #奇数行、非空数据处理
                 for j in range(len(module_list)):
