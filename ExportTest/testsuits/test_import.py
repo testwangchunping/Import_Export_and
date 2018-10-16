@@ -23,10 +23,10 @@ class Test_Import(unittest.TestCase):
         """ 未重构模块导入 """
         Read_Old_Import(self.driver,self.logger).test_old_import()
 
-    def test_new_import(self):
-
-        """重构模块导入"""
-        Read_New_Import(self.driver,self.logger).test_new_import()
+    # def test_new_import(self):
+    #
+    #     """重构模块导入"""
+    #     Read_New_Import(self.driver,self.logger).test_new_import()
 
     if __name__=='__main__':
 
