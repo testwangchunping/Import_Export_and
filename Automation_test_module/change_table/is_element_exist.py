@@ -1,6 +1,6 @@
 #coding=utf-8
 from ExportTest.frame.logger import Logger
-#logger=Logger(logger='old_Export').getlog()
+
 class IsElementExist(object):
     def __init__(self,driver):
         self.driver=driver

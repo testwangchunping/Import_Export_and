@@ -12,7 +12,7 @@ class Read_Old_Export(object):
         self.logger=logger
     readConfig=ReadConfigFile()
     def test_old_export(self):
-        file_path='H:\\selenium_test\\demo\\xbwq5\\ExportTest\\data_process\\file.xlsx'
+        file_path='H:\\selenium_test\\demo\\xbwq5\\ExportTest\\data\\read_file.xlsx'
         sheet_name='old_export'
         #打开excel
         workbook=xlrd.open_workbook(file_path)
