@@ -1,5 +1,4 @@
 import time
-from ExportTest.frame.logger import Logger
 class Os_Rows_Process(object):
     def __init__(self,module_list,driver,logger):
         self.module_list=module_list
@@ -19,11 +18,11 @@ class Os_Rows_Process(object):
             pass
         for name in self.module_list:
             get_module_name=name
-            try:
-                self.driver.find_element_by_link_text(name).click()
-                time.sleep(1)
-            except:
-                self.logger.warning(get_module_name+'导航栏名称配置错误')
+            # try:
+            self.driver.find_element_by_link_text(name).click()
+            time.sleep(1)
+            # except:
+            #     self.logger.warning(get_module_name+'导航栏名称配置错误')
         try:
             self.driver.switch_to.frame('app_iframe')
         except:
@@ -42,9 +41,9 @@ class Os_Rows_Process(object):
             pass
         for name in self.module_list:
             get_module_name=name
-            try:
-                self.driver.find_element_by_link_text(name).click()
-                time.sleep(1)
-            except:
-                self.logger.warning(get_module_name+'导航栏名称配置错误')
+            # try:
+            self.driver.find_element_by_link_text(name).click()
+            time.sleep(1)
+            # except:
+            #     self.logger.warning(get_module_name+'导航栏名称配置错误')
         return get_module_name

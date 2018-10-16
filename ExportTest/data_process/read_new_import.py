@@ -13,7 +13,7 @@ class Read_New_Import(object):
         self.logger=logger
     readConfig=ReadConfigFile()
     def test_new_import(self):
-        file_path = 'H:\\selenium_test\\demo\\xbwq5\\ExportTest\\data\\read_file2.xlsx'
+        file_path = '../data/read_file2.xlsx'
         sheet_name='new_import'
         #打开excel
         workbook=xlrd.open_workbook(file_path)

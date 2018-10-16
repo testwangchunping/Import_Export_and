@@ -9,7 +9,9 @@ from ExportTest.service.login import Test_Login
 
 
 class Test_Import_Suit(unittest.TestCase):
-
+    """
+    导入用例
+    """
     @classmethod
     def setUpClass(cls):
         cls.driver=BrowserEngine().get_browser()
@@ -22,17 +24,19 @@ class Test_Import_Suit(unittest.TestCase):
         cls.logger.realse()
 
     def test_old_import(self):
-
-        """ 未重构模块导入 """
+        """
+        未重构模块导入
+         """
         Read_Old_Import(self.driver,self.logger).test_old_import()
 
     def test_new_import(self):
-        """重构模块导入"""
+        """
+        重构模块导入
+        """
         Read_New_Import(self.driver, self.logger).test_new_import()
 
     if __name__=='__main__':
 
         unittest.main
-
 
 

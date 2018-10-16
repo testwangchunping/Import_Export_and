@@ -1,8 +1,8 @@
-import os
 import configparser
+import os
+
 
 class ReadConfigFile(object):
-    # def get_value(self):
     root_dir=os.path.dirname(os.path.abspath('.'))
     file_path=root_dir+'/configure/config.ini'
 
@@ -15,5 +15,3 @@ class ReadConfigFile(object):
     U_company=config.get('accountMessage','company')
     U_account=config.get('accountMessage','account')
     U_password=config.get('accountMessage','password')
-# rc=ReadConfigFile()
-# print(rc.Browser)
